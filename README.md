@@ -1,1 +1,1 @@
-# Human-Activity-Recognition---UCF101-Dataset
+# Human-Activity-Recognition-UCF101-Dataset
