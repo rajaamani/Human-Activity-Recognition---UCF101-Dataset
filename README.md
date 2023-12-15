@@ -14,3 +14,6 @@ This project presents an approach to Human Action Recognition (HAR) using a deep
 
 ## Dataset
 The training and evaluation are performed on the UCF-101 dataset, which is a widely recognized benchmark for action recognition.
+
+##Internship Report
+A detailed report of this internship project can be found here: [Human Activity Recognition Internship Report.pdf](Human Activity Recognition Internship Report.pdf).
